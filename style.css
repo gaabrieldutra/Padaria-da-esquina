@@ -1,0 +1,21 @@
+*{
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color:antiquewhite;
+}
+
+.titulo{
+    text-align: center;
+    background-color: #FF0000;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.regra{
+    text-align: center;
+}
+#fim{
+    font-size: 25px;
+    text-align: center;
+}
+
